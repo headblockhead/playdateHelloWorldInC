@@ -1,0 +1,5 @@
+name=Hello World in C
+author=Edward Hesketh
+description=A tiny demo game written using the Playdate C API.
+bundleID=com.headblockhead.helloworldinc
+imagePath=
